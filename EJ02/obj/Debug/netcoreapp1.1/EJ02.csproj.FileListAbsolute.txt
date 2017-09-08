@@ -1,0 +1,9 @@
+C:\GitRepos\TP01\EJ02\bin\Debug\netcoreapp1.1\EJ02.deps.json
+C:\GitRepos\TP01\EJ02\bin\Debug\netcoreapp1.1\EJ02.runtimeconfig.json
+C:\GitRepos\TP01\EJ02\bin\Debug\netcoreapp1.1\EJ02.runtimeconfig.dev.json
+C:\GitRepos\TP01\EJ02\bin\Debug\netcoreapp1.1\EJ02.dll
+C:\GitRepos\TP01\EJ02\bin\Debug\netcoreapp1.1\EJ02.pdb
+C:\GitRepos\TP01\EJ02\obj\Debug\netcoreapp1.1\EJ02.csproj.CoreCompileInputs.cache
+C:\GitRepos\TP01\EJ02\obj\Debug\netcoreapp1.1\EJ02.AssemblyInfo.cs
+C:\GitRepos\TP01\EJ02\obj\Debug\netcoreapp1.1\EJ02.dll
+C:\GitRepos\TP01\EJ02\obj\Debug\netcoreapp1.1\EJ02.pdb
