@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TP01
+namespace EJ01
 {
     class Program
     {
