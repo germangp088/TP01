@@ -1,9 +1,0 @@
-C:\GitRepos\TP01\EJ03\bin\Debug\netcoreapp1.1\EJ03.deps.json
-C:\GitRepos\TP01\EJ03\bin\Debug\netcoreapp1.1\EJ03.runtimeconfig.json
-C:\GitRepos\TP01\EJ03\bin\Debug\netcoreapp1.1\EJ03.runtimeconfig.dev.json
-C:\GitRepos\TP01\EJ03\bin\Debug\netcoreapp1.1\EJ03.dll
-C:\GitRepos\TP01\EJ03\bin\Debug\netcoreapp1.1\EJ03.pdb
-C:\GitRepos\TP01\EJ03\obj\Debug\netcoreapp1.1\EJ03.csproj.CoreCompileInputs.cache
-C:\GitRepos\TP01\EJ03\obj\Debug\netcoreapp1.1\EJ03.AssemblyInfo.cs
-C:\GitRepos\TP01\EJ03\obj\Debug\netcoreapp1.1\EJ03.dll
-C:\GitRepos\TP01\EJ03\obj\Debug\netcoreapp1.1\EJ03.pdb

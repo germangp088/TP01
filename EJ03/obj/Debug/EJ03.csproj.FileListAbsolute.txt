@@ -1,0 +1,5 @@
+C:\Users\GermanGP088\Source\Repos\TP01\EJ03\bin\Debug\EJ03.exe.config
+C:\Users\GermanGP088\Source\Repos\TP01\EJ03\bin\Debug\EJ03.exe
+C:\Users\GermanGP088\Source\Repos\TP01\EJ03\bin\Debug\EJ03.pdb
+C:\Users\GermanGP088\Source\Repos\TP01\EJ03\obj\Debug\EJ03.exe
+C:\Users\GermanGP088\Source\Repos\TP01\EJ03\obj\Debug\EJ03.pdb
